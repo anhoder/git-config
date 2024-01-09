@@ -8,12 +8,13 @@
 [core]
   editor = nvim
   pager = delta
+  excludesFile = ~/.config/git/gitignore
 
 [interactive]
   diffFilter = delta --color-only --features=interactive
 
 [delta]
-  features = colibri
+  features = gruvmax-fang
   navigate = true
   light = false
   line-numbers = true
