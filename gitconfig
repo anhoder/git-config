@@ -20,6 +20,7 @@
   line-numbers = true
   side-by-side = false
   hyperlinks = true
+  paging = never
 
 [delta "interactive"]
   keep-plus-minus-markers = true
