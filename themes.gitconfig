@@ -395,7 +395,7 @@
     minus-emph-style = syntax "#80002a"
     minus-non-emph-style = syntax auto
     plus-style = syntax "#004f00"
-    plus-emph-style = syntax "#003300"
+    plus-emph-style = syntax "#008300"
     plus-non-emph-style = syntax auto
     whitespace-error-style = "#FB4934" reverse
     # Commit hash
