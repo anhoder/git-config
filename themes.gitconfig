@@ -391,10 +391,10 @@
     line-numbers-right-format = " {np:>3} │"
     # Diff contents
     inline-hint-style = syntax
-    minus-style = syntax "#4f0000"
+    minus-style = syntax "#6f0000"
     minus-emph-style = syntax "#80002a"
     minus-non-emph-style = syntax auto
-    plus-style = syntax "#004f00"
+    plus-style = syntax "#005f00"
     plus-emph-style = syntax "#008300"
     plus-non-emph-style = syntax auto
     whitespace-error-style = "#FB4934" reverse
